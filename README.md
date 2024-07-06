@@ -8,6 +8,14 @@ I am doing contests on different platforms like [code4rena](https://code4rena.co
 
 - Twitter: [@0xAraj](https://twitter.com/0xAraj)
 
+## Highlights
+
+| Contest                                                           | Description               | Findings   | Rank |                         Report                         |
+| :---------------------------------------------------------------- | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
+| [M^0](https://audits.sherlock.xyz/contests/124)                   | Collateral, Cryptodollars | 1M         | 4th  | [📄](https://audits.sherlock.xyz/contests/124/report)  |
+| [Munchables](https://code4rena.com/audits/2024-05-munchables#top) | GameFi, Point Farming     | 2H, 2M, 1L | 5th  | [📄](https://code4rena.com/reports/2024-05-munchables) |
+| [Sophon Farming](https://audits.sherlock.xyz/contests/376)        | Staking, Airdrop          | 1M         | 5th  | [📄](https://audits.sherlock.xyz/contests/376/report)  |
+
 ## Audit Contests
 
 | Contest                                                                 | Description                 | Findings   | Rank |                                     Report                                     |
