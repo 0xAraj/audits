@@ -28,3 +28,4 @@ I am doing contests on different platforms like [code4rena](https://code4rena.co
 | [Rio Network](https://audits.sherlock.xyz/contests/176)                 | Restaking, EigenLayer       | 1M         | 24th |             [📄](https://audits.sherlock.xyz/contests/176/report)              |
 | [Telcoin Platform](https://audits.sherlock.xyz/contests/156)            | Financial Products          | 1H         | 9th  |             [📄](https://audits.sherlock.xyz/contests/156/report)              |
 | [The Standard](https://codehawks.cyfrin.io/c/clql6lvyu0001mnje1xpqcuvl) | Lending, Borrow Stablecoins | 1H, 3M, 1L | 25th | [📄](https://codehawks.cyfrin.io/c/clql6lvyu0001mnje1xpqcuvl/results?t=report) |
+| [Munchables](https://code4rena.com/audits/2024-07-munchables#top)       | GameFi, Point Farming       | 2H, 1M     | 23th |             [📄](https://code4rena.com/reports/2024-07-munchables)             |
